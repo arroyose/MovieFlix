@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 package modelos;
 
 public class Peliculas {
@@ -79,4 +79,3 @@ package modelos;
 public class Peliculas {
 
 }
->>>>>>> 26851ba4a54f97eafc87c5623fbf5fc4e120e3b9
