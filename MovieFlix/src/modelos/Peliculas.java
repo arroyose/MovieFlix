@@ -1,4 +1,3 @@
-
 package modelos;
 
 public class Peliculas {
@@ -71,11 +70,4 @@ public class Peliculas {
 		return true;
 	}
 	
-}
-
-=======
-package modelos;
-
-public class Peliculas {
-
 }
